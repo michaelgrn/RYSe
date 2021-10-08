@@ -1,0 +1,1 @@
+georgia_NNP force_NN
