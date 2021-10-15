@@ -1,0 +1,1 @@
+Where Stereotype pickles go.
