@@ -11,3 +11,5 @@ The folders contain code which must be run in the following order:
 2. FeatureExtraction
 3. Experiments
 4. Results
+
+env.txt Contains the Anaconda environment that these experiments were run on.
